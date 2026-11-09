@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="FridayBull – AI tools · products · experiments" width="100%">
+  <img src="assets/banner.png" alt="FridayBull – doing cool shit" width="100%">
 </p>
 
 **Doing cool shit.** Building AI tools and products – and open-sourcing the tools.
