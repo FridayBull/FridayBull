@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="FridayBull – AI tools · products · experiments" width="100%">
 </p>
 
-I build AI tools and products – and open-source the tools.
+**Doing cool shit.** Building AI tools and products – and open-sourcing the tools.
 
 ### Open source
 
